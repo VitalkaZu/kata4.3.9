@@ -1,7 +1,9 @@
-{
-    "user": {
-        "username": "vitalkazu",
-        "email": "vitalkazu@gmail.com",
-        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNDk3NTUwM2NmNzA1MWIwMDgyYWYwMyIsInVzZXJuYW1lIjoidml0YWxrYXp1IiwiZXhwIjoxNjcwOTQ1NjgyLCJpYXQiOjE2NjU3NjE2ODJ9.IvojTz8RmBzFmF9uZ67_1Qk7R-DseAk2TrciojO8HBw"
-    }
-}
+1.Регистрация (данный скрин сделал уже после того как отправил повторный запрос на регистрацию, при первой попытке была успешная регистрация и получен токен.
+![image](https://user-images.githubusercontent.com/76574554/196039666-e3210e5f-5b97-41c4-b1c1-ef5cfa82ce6c.png)
+
+
+2. Логинимся использую данные которые указали при регистрации, получаем токен
+![image](https://user-images.githubusercontent.com/76574554/196039566-1480d3e4-4acc-40df-9832-3cf36746b2ae.png)
+
+3. Получаем данные текущего пользователя использую токен авторизации полученный на предыдущем шаге
+![image](https://user-images.githubusercontent.com/76574554/196039635-69739c35-4109-4f66-bfd0-7bd8115a3e79.png)
